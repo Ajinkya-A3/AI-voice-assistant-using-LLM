@@ -1,0 +1,74 @@
+{   "intents":[
+            {
+                "tag":"open youtube",
+                "patterns":["launch youtube" ,"open youtube" , "visit youtube"
+                ],
+                "responses":["open youtube"
+                ]
+            },
+            {
+                "tag":"open google",
+                "patterns":["launch google" ,"open google" , "visit google"
+                ],
+                "responses":["open google"
+                ]
+            },
+            {
+                "tag":"open brave",
+                "patterns":["launch brave" ,"open brave" , "visit brave"
+                ],
+                "responses":["open brave"
+                ]
+            },
+            {
+                "tag":"open notepad",
+                "patterns":["launch notepad" ,"open notepad" , "visit notepad"
+                ],
+                "responses":["open notepad"
+                ]
+            },
+            {
+                "tag":"open command promt",
+                "patterns":["launch command promt" ,"open command promt" , "visit command promt"
+                ],
+                "responses":["open command promt"
+                ]
+            },
+            {
+                "tag":"screenshot",
+                "patterns":["take a snap" ,"take screenshot" , "capture screen"
+                ],
+                "responses":["screenshot"
+                ]
+            },
+            {
+                "tag":"download youtube",
+                "patterns":["download this youtube video" ,"download this video" 
+                ],
+                "responses":["download youtube"
+                ]
+            },
+            {
+                "tag":"open wikipedia",
+                "patterns":["launch wikipedia" ,"open wikipedia" , "search wikipedia"
+                ],
+                "responses":["open wikipedia"
+                ]
+            },
+            {
+                "tag":"battery percentage",
+                "patterns":["how much power do we have " ,"what is battery our percentage" 
+                ],
+                "responses":["battery percentage"
+                ]
+            },
+            {
+                "tag":"open whatsapp",
+                "patterns":["launch whatsapp" ,"open whatsapp" , "visit whatsapp"
+                ],
+                "responses":["open whatsapp"
+                ]
+            }
+
+        ]
+}                                                    
